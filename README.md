@@ -10,3 +10,6 @@ Visualizes the distribution of the dataset using a pie chart to understand the b
 Prerequisites:
 Install the required Python libraries:
 pip install opencv-python tensorflow matplotlib pandas tqdm
+
+Dataset Link
+https://www.kaggle.com/datasets/techsash/waste-classification-data/data
